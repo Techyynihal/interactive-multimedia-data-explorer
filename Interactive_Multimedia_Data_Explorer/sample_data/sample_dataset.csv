@@ -1,0 +1,13 @@
+City,Category,Month,Value,Score
+Pune,Air Quality,Jan,72,7.2
+Mumbai,Transport,Jan,85,8.5
+Nagpur,Air Quality,Feb,61,6.1
+Nashik,Water,Feb,68,6.8
+Pune,Transport,Mar,91,9.1
+Mumbai,Water,Mar,74,7.4
+Aurangabad,Air Quality,Apr,55,5.5
+Nagpur,Transport,Apr,88,8.8
+Nashik,Water,May,70,7.0
+Pune,Air Quality,May,64,6.4
+Mumbai,Transport,Jun,93,9.3
+Aurangabad,Water,Jun,66,6.6
